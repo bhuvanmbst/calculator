@@ -19,7 +19,6 @@ export class CalculatorPage {
             this.result += btn;
         }
     }
-
     constructor(public navCtrl: NavController) {
 
     }
